@@ -4,7 +4,11 @@ A hypnotizing circle animation designed to captivate and mesmerize with smooth t
 
 
 ✨ Features
+
 	•	🔄 Infinite Loop Animations – Smooth and seamless transitions for endless visual flow.
+ 
 	•	🎨 Customizable Patterns – Easily tweak colors, sizes, and speeds.
+ 
 	•	🌀 Hypnotic Effects – Ideal for relaxation, meditation, or eye-catching designs.
+ 
 	•	💻 Lightweight & Open Source – Easy to integrate and extend.
